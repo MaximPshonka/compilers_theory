@@ -1,0 +1,5 @@
+@@fdsfds:
+	mov ax,ds
+.dsfdsf:
+
+fdsf:
