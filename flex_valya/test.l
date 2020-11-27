@@ -36,6 +36,7 @@ void main(){
 		buf[i] = buf[i] + SHIFT;
 	}
 
+	buf[strlen(buf) - 2] = buf[strlen(buf) - 1] = '\n';
 	yylex();
 	fprintf(out, "%s", buf);
 
