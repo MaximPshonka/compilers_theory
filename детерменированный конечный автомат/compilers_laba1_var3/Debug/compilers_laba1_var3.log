@@ -1,0 +1,4 @@
+﻿  Source.c
+d:\Microsoft Visual Studio\проекты\compilers_laba1_var3\compilers_laba1_var3\Source.c(54,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+d:\Microsoft Visual Studio\проекты\compilers_laba1_var3\compilers_laba1_var3\Source.c(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+  compilers_laba1_var3.vcxproj -> D:\Microsoft Visual Studio\проекты\compilers_laba1_var3\Debug\compilers_laba1_var3.exe
