@@ -1,0 +1,16 @@
+(defvar x 234)
+(defvar a 100)
+(loop for i from1 to 5
+    for y = (* a 2)
+    collect y)
+print(a)
+(let ((x2 `a)(d2 `f))
+(loop for x in '(a b c d e)
+    for y from 1
+	when (> y 1)
+   	 do (format t ", ")
+(let ((s "alpha45"))
+   (loop for i from 0 below (length s)
+         for ch = (char s i)
+         when (find ch "0123456789" :test #'eql)
+         return ch))
